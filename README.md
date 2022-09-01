@@ -7,7 +7,9 @@ Neste desafio você deve criar uma página de coming soon para o lançamento de 
 produto ou serviço, e na página deve ter um countdown timer informando quanto tempo falta para o lançamento.
 
 
-tecnologias usadas
+tecnologias usadas:
 html
 css
 Javascript
+
+pages:https://andradean.github.io/CountdownJS/
